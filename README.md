@@ -1,4 +1,4 @@
-# mito_tracker
+# mito_tracker_morphology
 .m files are matlab codes for mitochondria tracking by following steps:
 first detect mitochondria using peak signals after filtering (with parameters sigma and diameter), object is detected if peak signal is over certain threshold;
 detected mitochondria is then tracked;
